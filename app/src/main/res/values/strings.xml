@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">POP Movie</string>
+    <string name="setting">setting</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="favorite">Favorite Movies</string>
+    <string name="title">Movie Title</string>
+    <string name="details">Movie Details</string>
+    <string name="plot">Synopsis</string>
+    <string name="rating">User Rating</string>
+    <string name="release">Release Date</string>
+    <string name="sort_order_label">Sort Order</string>
+    <string name="sort_order_key">sortOrder</string>
+    <string name="error_message">An error has occured, Please tryy again later …</string>
+    <string name="image">image</string>
+    <string name="trailer">Trailer</string>
+    <string name="review">Review</string>
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="authority">com.app.phedev.popmovie</string>
+</resources>
